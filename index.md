@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Elizabeth Taylor's GitHub page
 
-You can use the [editor on GitHub](https://github.com/eliztaylor/fluffy-winner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hopefully there will be interesting stuff here soon. Hopefully... Probably...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Maybe...
 
 ### Markdown
 
