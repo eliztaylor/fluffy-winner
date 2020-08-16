@@ -33,6 +33,16 @@ I included this artifact because it showcases my work with arrays. Arrays are a 
 This artifact was a challenge for me because I struggle with data structures and algorithms on the whole. That was my most difficult class at SNHU and I know I need a lot more work with both. I had originally wanted to include a Mad Lib type game, but I just could not get it work. I could figure out how to produce random output from an array of objects, but not when I used user input. The program crashed each time. I think it was a buffer overflow problem.<br>
 I was able to practice some best practices in creating this program. I checked my code often and did code review each time I completed a switch case. I was able to find problems quickly rather than having to wade through a lot of code looking for them. I was happy to see that these things came naturally to me, demonstrating my growth as an engineer.<br> 
 ### [Fun With Arrays](https://github.com/eliztaylor/FunWithArrays)
+**Databases**
+
+This artifact is an entirely new database created in MySQL. The database contains two tables; one created in the MySQL shell and one created using Python. The table created in the MySQL shell is a collection of books read including title, author, a short synopsis, if the title has been reviewed or not and whether book was completely read or not. I took screen shots throughout the process and documented the process in two included Word documents, one for each table. I also created a Python program that allowed user input data to be added to the database.<br> 
+
+The artifact shows my competency with working with databases both in the MySQL shell and using Python. I used several SQL commands demonstrating various skills. Being able to use queries to find out information about the data and using various commands to manipulate the date shows that I am comfortable working with databases. 
+This was an improvement from the database I constructed in my DAD 220 class because it was completely from the ground up. Also, the database in my class was constructed using Codio. For this, I downloaded MySQL and had to learn how to use it without the aid of Codio. Also, the creation of the Python programs to manipulate databases was entirely new and successful.<br>
+
+Working on this project solidified my belief that I truly enjoy working with databases. I enjoyed this process and had less challenges than the previous two artifacts. I looked forward to learning how to achieve each goal. The only real challenge I faced was working with MySQL without Codio. Learning how to use the localhost connection was different, but not too much. Using Python to manipulate the MySQL data was easier than I expected. Overall, this was an enjoyable experience and really made me realize that I want to focus on databases in my career. I am very proud of what I was able to accomplish with this artifact.
+
+
 
 
 
