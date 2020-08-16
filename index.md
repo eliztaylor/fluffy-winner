@@ -1,37 +1,29 @@
-## Welcome to Elizabeth Taylor's GitHub page
+## Welcome!
 
-Hopefully there will be interesting stuff here soon. Hopefully... Probably...
+My name is Elizabeth Taylor, but probably not the [one](https://en.wikipedia.org/wiki/Elizabeth_Taylor) you’re thinking of. I make that joke a lot as sort of an ice breaker, but if I’m honest I never minded sharing a name with such a famous person. It gave me something to live up to and it made me memorable. It made me stand out. That’s what I’m hoping to do here: stand out, be memorable. 
 
-Maybe...
+### On With The Story...
+  I spent most of my adult working life in casino entertainment. I started in the box office of a small casino and worked my way up to box office manager, then showroom manager and eventually became the operations manager for an entire casino entertainment department. Along the way I learned how to manage people, how to make schedules and deal with personnel conflicts. I learned about budgeting, marketing, planning, designing a theater room, and how to deal with all manner of problems that arise in entertainment. I meant to make it my career, but one day I realized it was just a job and one I had begun to actively despise. I was not passionate about it at all. 
+  
+  What I was passionate about was computers. I would spend my non-working hours on the internet. It was where I lived. From the first time I ever signed into AOL, I felt like I found my home. I was fascinated by all the information suddenly at my fingertips. Computers were my happy place. The more time I spent on the internet the more I wanted to know. When I built my first web page using Notepad, I felt so accomplished. When I built my first computer from the ground up, I felt powerful. I understood computers. They made sense to me and I loved them. When family members began asking for help from everything to signing in to email to adding a new CD Rom, I realized I lacked the patience to help other people with computers. I understood them, but I didn’t want to explain them. A career in corporate IT was probably out. So, I kept computers as my hobby, spending all time away from work online or playing video games. I was starting to dabble in programming, nothing major just some [Codecademy](https://www.codecademy.com/catalog) classes and [YouTube](https://www.youtube.com/results?search_query=programming+for+beginners) videos. 
+  
+  In 2014, the casino I worked for was experiencing a financial hardship and needed to cut costs. It was decided that my position was redundant, and it was eliminated and so was I. At the same time, I was going through a divorce.  I spent some time wallowing, feeling sorry for myself. Then I realized this was an opportunity to do something I’d always wanted to do and that was make a career out of my passion. I had chance to do something I loved rather than just have a job to pay the bills. I wanted a career where I could learn new things all the time and enjoy what I did. I wanted to use my brain. I wanted to be proud of the work I did and not dread going to work each day. I also wanted to be able to work from home occasionally. Software Engineering sounded like the path for me. One day I made the commitment to myself: I would pursue a career in Software Engineering. I enrolled in [SNHU](https://www.snhu.edu/) a week later. Sometimes I’m amazed at how fast I did it, but once in I was determined. 
 
-### Markdown
+  I enrolled in December of 2017 and classes started in January of 2018. Now it is August of 2020 and I am graduating with a degree in Software Engineering. I am very proud of myself for completing this goal. I am nervous and excited for the future and hopeful that I can find that place where I belong.
+  
+  ### Still With Me?
+  As I have gone through my classes, I have found that maybe I didn’t understand computers as much as I thought I did. Programming didn’t come as easy as I thought it would. I struggled with some languages more than others, but I stuck with it and always felt so proud when a program worked. I realized though that I need a lot more work with programming. I worry about that going forward. I worry about trying to get a job with my current skill set. I feel I need a lot more work and I know that comes with time. My hope is I can find a position in a company that is willing to teach me and mold me into a better engineer. I am so willing to learn and work. I have never been afraid of hard work.
+  One thing that I found that I really enjoy databases. I love the organization of data and being able to run queries quickly. I feel I have a lot still to learn, but I think I’d like that to be my focus. I also really am drawn to an Agile environment. I really liked the team work aspect of Agile. I enjoy learning from others and feel that working in an Agile environment would foster that. I had this vision of software engineering being a solitary pursuit but what I learned is that it is far from. The best engineering seems to be done in a team environment where everyone can learn and help each other. Peer review of your code is a perfect example of that. Sometimes another set of eyes can find problems that we’ve missed. Having someone else look over your code and show you places it can be strengthened only makes you a better engineer. I think my past experience with being a manager will help with aspects of my career that aren’t necessarily about the software. A software engineer needs to be able to talk to shareholders and clients about their work. They need to be able to communicate effectively. My past experience as a manager has prepared me for that. There are a lot of tools in my tool box and I’m always looking to add more.
+  
+  For our final project at we were tasked with creating three artifacts to demonstrate our abilities in three key areas: **Software Design and Engineering, Algorithms and Data Structure, and Databases**. We were to take projects that we had worked on during our time at SNHU and make enhancements to them. The artifacts I chose were a mobile app I had created for my Mobile Architecture and Programming class, a C++ program demonstrating arrays, and an SQL database manipulation demonstration done for my Intro to SQL class. At first, I was apprehensive about this project. I worried I wouldn’t have enough time or knowledge to enhance the programs. I worried that I hadn’t learned enough to achieve the goals I had set. I was panicked, but I dove in. When I created the initial code reviews shared below, I began to clearly see how the programs could be enhanced and how I could achieve this. I was excited to begin work on each project and eager to do any research I needed to do to figure out how exactly to do certain things. I found I knew and understood more than I gave myself credit for. I enjoyed working on these projects and making the enhancements. I’m quite proud of the work that I’ve done and happy to share them here. I think these artifacts show that I can create programs and work with data. To me they show that I can learn anything I put my mind to. They show that I am more than capable and definitely teachable. 
+  
+  I know computers are my future. I am driven and am learning on my own all the time. I know I have more to learn and someday I think I’d like to return to graduate school and continue learning. For now, I’d like to work and learn from others. I will continue to research and learn on my own, adding tools to my tool box. Hopefully there is a position out there for me that can take my blossoming skills and eagerness to learn and mold me into a better engineer.  I have never been afraid of hard work. Going back to school and starting a new career chapter at this stage in life shows that I am not afraid to work hard. I just need a chance.
+  
+  ### The Artifacts
+  **Software Design and Engineering**
+  The artifact I chose for Software Design and Engineering is a mobile app I created from scratch. This app was based on another app I created for my Mobile Architect class. While this used a lot of the same features, this was a completely new app built from the ground up. I was never happy with the work I did on the app created in class and I was happy to have a chance to do it again. This time I created a book database app called Booked. A user can enter titles, author names, a short synopsis and whether they finished the book or not into a database. They can view all the books by title name, author name or id. They can also update titles and delete titles they no longer want. I originally had planned to implement a camera feature that would have allowed users to take pictures of the covers of books they are reading with their phone camera and store them in the database. Ultimately, I decided not to try to jam too much into the app. I felt the camera feature would have just been too much. I still might go back and add it though just to see if I can do it.
+  
+  I feel this is a good app to showcase my skills because I am not a mobile developer. I am not particularly proficient in Java. But this shows that I can accomplish things I am not proficient in if I try hard enough. I worked hard on this app and had to learn a lot in a short amount of time. I am so proud of the way it turned out. It is almost exactly as I had envisioned. There were a lot of challenges I had to overcome such as leaning how to have a separate database and helper class for user authentication. I had never worked with RecyclerView so that was a challenge. Figuring out how to use more than one Custom Adapter was a struggle. I find working with Android tricky because it changes so quickly. How you do things one day, is not how you do it the next. It was a struggle, but I am really happy with the end result of this app. It is such an improvement from the original app. My coding is greatly improved and more importantly my understanding of the code is improved. This time around I was able to understand what I was doing instead of just trying to finish it for a class. I also really enjoyed working on it. With each challenge overcome, there was sense of pride and accomplishment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eliztaylor/fluffy-winner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
